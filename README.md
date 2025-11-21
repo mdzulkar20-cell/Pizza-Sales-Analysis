@@ -10,7 +10,6 @@ The goal of this project is to understand business performance by examining reve
 
 1️⃣ Pizza Sales Dashboard (Power BI)
 
-
 An interactive dashboard visualizing key metrics such as:
 
 * Total Revenue
@@ -28,8 +27,6 @@ An interactive dashboard visualizing key metrics such as:
 * Pizza size & category performance
 
 2️⃣ Pizza Sales SQL Queries
-
-Pizza Sales SQL Analysis.docx 
 
 Contains SQL code for:
 
