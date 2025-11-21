@@ -7,6 +7,7 @@ This repository contains a complete end-to-end analysis of Pizza Sales Data, inc
 The goal of this project is to understand business performance by examining revenue, order patterns, product categories, and trends in customer demand.
 
 📁 Files Included
+
 1️⃣ Pizza Sales Dashboard (Power BI)
 
 
